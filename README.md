@@ -1,1 +1,1 @@
-# CS226-Project
+# CS226-Big Data Managment Project
